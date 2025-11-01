@@ -88,7 +88,7 @@ pip install tensorflow==2.13.0 opencv-python==4.8.0.76 pillow matplotlib scikit-
 Antes de usar la aplicación, debes entrenar el modelo con el dataset:
 
 ```bash
-cd C:\Users\zaval\Desktop\Proyecto_ML
+cd C:\Users\zapata\Desktop\Proyecto_ML
 python train_model.py
 ```
 
