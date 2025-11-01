@@ -8,7 +8,7 @@ from tensorflow.keras.optimizers import Adam
 from sklearn.metrics import classification_report, confusion_matrix
 
 # === CONFIGURACIÓN GENERAL ===
-DATA_DIR = r"C:\Users\zaval\Desktop\Proyecto_Ml\Data"
+DATA_DIR = r"C:\Users\zapata\Desktop\Proyecto_Ml\Data"
 IMG_SIZE = (64, 64)
 BATCH_SIZE = 32
 EPOCHS = 10
@@ -112,3 +112,4 @@ plt.tight_layout()
 plt.show()
 
 print("\n🎯 ENTRENAMIENTO COMPLETO — TODO OK ✅")
+
